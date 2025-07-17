@@ -12,7 +12,7 @@ document
 
     clickCount++;
 
-    if (clickCount === 7) {
+    if (clickCount === 10) {
       showPopup();
     }
   });
